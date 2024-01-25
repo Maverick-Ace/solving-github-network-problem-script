@@ -19,6 +19,7 @@ Use `pip install selenium pyyaml` to install the required packages. Note that yo
 Run git_network_srcipt.py in the command line(cmd) with administrator privileges and do not run it directly.
 
 *Example:*
+
 FIRST STEP: start cmd with administrator privileges
 ```
 > e:
