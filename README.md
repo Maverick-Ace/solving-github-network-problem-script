@@ -1,4 +1,4 @@
-# Automaticly solve the problem of 'Ping timed out' when pinging github.com by using selenium
+# Automaticly solve the problem of 'Ping timed out' using selenium when pinging github.com
 
 ## Description
 
