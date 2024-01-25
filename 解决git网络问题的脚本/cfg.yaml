@@ -1,0 +1,7 @@
+IP_address_tool_url: https://sites.ipaddress.com/
+git_url: 
+- github.com
+- github.global.ssl.fastly.net
+host_file_root: C:/Windows/System32/drivers/etc
+host_file_path: C:/Windows/System32/drivers/etc/hosts
+back_up_file_path: C:/Windows/System32/drivers/etc/hosts.bak
